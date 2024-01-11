@@ -1,0 +1,35 @@
+h1{
+    font-size: 35px;
+    padding-top:100px;
+}
+img{
+    padding-top: 60px;
+}
+p{
+    font-size:15px;
+}
+
+input{
+    color: burlywood;
+}
+.md{
+    background-color: aliceblue;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.i{
+    position: absolute;
+ 
+    padding: 10px;
+    min-width: 40px;
+	padding-left:130px;
+
+    font-size:20px;
+    color: blue;
+}
+button:hover{
+    background-color: black;
+  
+}
