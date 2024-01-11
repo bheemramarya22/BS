@@ -1,0 +1,47 @@
+/* Styles for phones */
+@media only screen and (max-width: 767px) {
+    /* Your CSS styles for phones go here */
+  }
+
+  .navbar{
+    background-color:rgb(28, 29, 75);
+
+
+  }
+
+  .r{
+    background-color: yellow;
+
+  }
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0%;
+}
+h1 {
+  text-align: center;
+}
+.tips {
+  max-width:100%;
+  margin: 0 auto;
+}
+.tip {
+  margin-bottom: 20px;
+ 
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.bb{
+  background-color: rgb(28, 29, 75);}
+
+  button{
+    font-size:15px;
+    
+    padding: auto;
+    white-space: 20px;
+    color:black;
+    width:200px;
+    height:65px;
+  }
